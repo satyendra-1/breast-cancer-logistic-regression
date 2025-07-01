@@ -20,5 +20,5 @@ This project uses the UCI Breast Cancer Wisconsin dataset to build a logistic re
 - Accuracy evaluation and classification report
 -Built and tested fully on Kaggle — ideal for beginner-level ML deployment.
 ##  Result
-“Achieved ~95% test data  accuracy on UCI Breast Cancer Dataset using logistic regression.”
+“Achieved ~98% test data  accuracy on UCI Breast Cancer Dataset using logistic regression.”
 
